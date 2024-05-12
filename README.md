@@ -6,7 +6,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGOWRamalho&theme=blue-green" width="300px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasGOWRamalho&show_icons=true&theme=onedark" width="600px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasGOWRamalho&show_icons=true&theme=onedark" width="500px" />
 </div>
 
 ## Technologies I use:
