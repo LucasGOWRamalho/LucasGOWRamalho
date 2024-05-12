@@ -26,6 +26,6 @@
 * API para sites
 * Site da faculdade
 * API para consulta de clientes
-* Jogo CUBO com: <a href="https://www.linkedin.com/in/lucas-ramalho-07a34425a">
+* Jogo CUBO com: <a href="https://github.com/lbwma">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
