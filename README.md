@@ -5,8 +5,8 @@
 
 
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGOWRamalho&theme=blue-green" width="300px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasGOWRamalho&show_icons=true&theme=onedark" width="500px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGOWRamalho&theme=blue-green" width="450px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasGOWRamalho&show_icons=true&theme=onedark" width="450px" />
 </div>
 
 ## Technologies I use:
